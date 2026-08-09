@@ -166,7 +166,7 @@ int main() {
 
     clearSearchHistory(searchHistory);
 
-    cout << "Goodbye!" << endl;
+    cout << "Gotta Catch Them All!" << endl;
 
     return 0;
 }
